@@ -1,0 +1,12 @@
+[2025-11-16 13:13:51] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:13:51] [ERROR] 400: Bad Request: not enough rights to manage chat invite link
+[2025-11-16 13:19:34] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:19:34] [ERROR] buttons is not defined
+[2025-11-16 13:20:16] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:20:16] [ERROR] buttons is not defined
+[2025-11-16 13:21:19] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:21:19] [ERROR] buttons is not defined
+[2025-11-16 13:22:10] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:22:10] [ERROR] buttons is not defined
+[2025-11-16 13:25:58] [ERROR] Error in bot.command links:  400: Bad Request: not enough rights to manage chat invite link
+[2025-11-16 13:26:39] [ERROR] Error in bot.command links:  del_invite is not defined

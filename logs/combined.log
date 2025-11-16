@@ -1,0 +1,66 @@
+[2025-11-16 12:44:31] [INFO] SSH tunnel established
+[2025-11-16 12:44:32] [INFO] REDIS connected
+[2025-11-16 12:44:32] [INFO] BOT ready
+[2025-11-16 12:50:10] [INFO] SSH tunnel established
+[2025-11-16 12:50:10] [INFO] REDIS connected
+[2025-11-16 12:50:10] [INFO] BOT ready
+[2025-11-16 12:58:58] [INFO] SSH tunnel established
+[2025-11-16 12:58:58] [INFO] REDIS connected
+[2025-11-16 12:58:59] [INFO] BOT ready
+[2025-11-16 13:00:24] [INFO] SSH tunnel established
+[2025-11-16 13:00:25] [INFO] REDIS connected
+[2025-11-16 13:00:25] [INFO] BOT ready
+[2025-11-16 13:05:11] [INFO] SSH tunnel established
+[2025-11-16 13:05:12] [INFO] REDIS connected
+[2025-11-16 13:05:12] [INFO] BOT ready
+[2025-11-16 13:09:09] [INFO] SSH tunnel established
+[2025-11-16 13:09:10] [INFO] REDIS connected
+[2025-11-16 13:09:10] [INFO] BOT ready
+[2025-11-16 13:11:44] [INFO] SSH tunnel established
+[2025-11-16 13:11:44] [INFO] REDIS connected
+[2025-11-16 13:11:44] [INFO] BOT ready
+[2025-11-16 13:13:36] [INFO] SSH tunnel established
+[2025-11-16 13:13:36] [INFO] REDIS connected
+[2025-11-16 13:13:37] [INFO] BOT ready
+[2025-11-16 13:13:51] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:13:51] [ERROR] 400: Bad Request: not enough rights to manage chat invite link
+[2025-11-16 13:18:02] [INFO] SSH tunnel established
+[2025-11-16 13:18:02] [INFO] REDIS connected
+[2025-11-16 13:18:03] [INFO] BOT ready
+[2025-11-16 13:19:34] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:19:34] [ERROR] buttons is not defined
+[2025-11-16 13:20:01] [INFO] SSH tunnel established
+[2025-11-16 13:20:01] [INFO] REDIS connected
+[2025-11-16 13:20:02] [INFO] BOT ready
+[2025-11-16 13:20:16] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:20:16] [ERROR] buttons is not defined
+[2025-11-16 13:21:13] [INFO] SSH tunnel established
+[2025-11-16 13:21:13] [INFO] REDIS connected
+[2025-11-16 13:21:13] [INFO] BOT ready
+[2025-11-16 13:21:19] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:21:19] [ERROR] buttons is not defined
+[2025-11-16 13:21:57] [INFO] SSH tunnel established
+[2025-11-16 13:21:57] [INFO] REDIS connected
+[2025-11-16 13:21:57] [INFO] BOT ready
+[2025-11-16 13:22:10] [ERROR] Ошибка запуска бота:
+[2025-11-16 13:22:10] [ERROR] buttons is not defined
+[2025-11-16 13:23:43] [INFO] SSH tunnel established
+[2025-11-16 13:23:44] [INFO] REDIS connected
+[2025-11-16 13:23:44] [INFO] BOT ready
+[2025-11-16 13:25:19] [INFO] SSH tunnel established
+[2025-11-16 13:25:19] [INFO] REDIS connected
+[2025-11-16 13:25:19] [INFO] BOT ready
+[2025-11-16 13:25:58] [ERROR] Error in bot.command links:  400: Bad Request: not enough rights to manage chat invite link
+[2025-11-16 13:26:28] [INFO] SSH tunnel established
+[2025-11-16 13:26:29] [INFO] REDIS connected
+[2025-11-16 13:26:29] [INFO] BOT ready
+[2025-11-16 13:26:39] [ERROR] Error in bot.command links:  del_invite is not defined
+[2025-11-16 13:26:56] [INFO] SSH tunnel established
+[2025-11-16 13:26:57] [INFO] REDIS connected
+[2025-11-16 13:26:57] [INFO] BOT ready
+[2025-11-16 13:32:14] [INFO] SSH tunnel established
+[2025-11-16 13:32:14] [INFO] REDIS connected
+[2025-11-16 13:32:14] [INFO] BOT ready
+[2025-11-16 13:38:04] [INFO] SSH tunnel established
+[2025-11-16 13:38:05] [INFO] REDIS connected
+[2025-11-16 13:38:05] [INFO] BOT ready
