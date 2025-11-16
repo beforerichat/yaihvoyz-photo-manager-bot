@@ -34,10 +34,10 @@ logger.info('BOT ready');
 async function setReactionRedis(chatId, messageId, userId, value) {
     try {
         const key = `reaction:${chatId}:${messageId}:${userId}`;
-        if (value !== 0) {
-            await redis.set(key, value);
-        } else {
+        if (value === 0) {
             await redis.del(key);
+        } else {
+            await redis.set(key, value);
         }
     } catch (error) {
         logger.error('Error in setReactionRedis: ', error);
@@ -62,8 +62,7 @@ function getReactionValue(oldEmoji, newEmoji) {
 
         // сняли реакцию
         if (!newEmoji && oldEmoji) {
-            if (NEG.includes(oldEmoji)) return +1;
-            if (POS.includes(oldEmoji)) return -1;
+            return 0;
         }
 
         // поставили новую реакцию
