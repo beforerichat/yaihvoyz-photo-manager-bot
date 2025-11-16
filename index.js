@@ -24,7 +24,7 @@ const redis = createClient({
     password: process.env.REDIS_PASS,
     database: 1
 });
-redis.connect();
+await redis.connect();
 await redis.select(1);
 logger.info('REDIS connected');
 
